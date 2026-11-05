@@ -32,7 +32,7 @@ page.drawRectangle({ x: 0, y: 0, width: W, height: H, color: PAPER });
 // Photo du haut : le balayage blond, en bandeau
 const photo = await sharp(path.join(ROOT, "public/media/hero/balayage-blond-ondule.jpg")).resize(1200, 640, { fit: "cover", position: "centre" }).jpeg({ quality: 88 }).toBuffer();
 const img = await pdf.embedJpg(photo);
-const photoH = 210;
+const photoH = 232;
 page.drawImage(img, { x: 0, y: H - photoH, width: W, height: photoH });
 
 const center = (text, font, size, y, color = INK, spacing = 0) => {
@@ -46,8 +46,8 @@ const center = (text, font, size, y, color = INK, spacing = 0) => {
 };
 
 // Logo : la mèche cuivrée, « HAIR ÉVASION » en capitales espacées, « coiffeur visagiste · Amiens »
-let y = H - photoH - 30;
-page.drawSvgPath("M6 30C22 30 26 10 44 10S66 30 84 30 106 12 124 8", { x: (W - 118 * 0.6) / 2 - 6 * 0.6, y: y + 6, scale: 0.6, borderColor: hex("#B9774A"), borderWidth: 1.2 });
+let y = H - photoH - 40;
+page.drawSvgPath("M6 30C22 30 26 10 44 10S66 30 84 30 106 12 124 8", { x: (W - 118 * 0.6) / 2 - 6 * 0.6, y: y + 22, scale: 0.6, borderColor: hex("#B9774A"), borderWidth: 1.2 });
 y -= 26;
 center("HAIR ÉVASION", serif, 24, y, INK, 5.2);
 y -= 16;

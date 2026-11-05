@@ -1,0 +1,55 @@
+{
+  "_note": "Carte des prestations. price : prix « à partir de » en euros (null = « tarif au salon »). duration : durée indicative en minutes, à valider par le salon (null = non affichée). Les ids servent au formulaire de rendez-vous et à la barre de réservation.",
+  "categories": [
+    {
+      "id": "coupe",
+      "name": { "fr": "Coupe & visagisme", "en": "Cut & face-shape styling" },
+      "items": [
+        { "id": "coupe-femme", "name": { "fr": "Coupe femme, shampooing et brushing", "en": "Women's cut, wash and blow-dry" }, "duration": 60, "price": null },
+        { "id": "coupe-rasoir", "name": { "fr": "Coupe au rasoir", "en": "Razor cut" }, "duration": 45, "price": null },
+        { "id": "bilan-visagiste", "name": { "fr": "Bilan capillaire et conseil visagiste", "en": "Hair assessment and face-shape advice" }, "duration": 30, "price": null },
+        { "id": "relooking", "name": { "fr": "Relooking coupe et couleur", "en": "Full makeover, cut and colour" }, "duration": 180, "price": null }
+      ]
+    },
+    {
+      "id": "couleur",
+      "name": { "fr": "Couleur & balayage", "en": "Colour & balayage" },
+      "items": [
+        { "id": "coloration", "name": { "fr": "Coloration", "en": "Colour" }, "duration": 90, "price": null },
+        { "id": "coloration-vegetale", "name": { "fr": "Coloration végétale", "en": "Plant-based colour" }, "duration": 120, "price": null },
+        { "id": "balayage", "name": { "fr": "Balayage", "en": "Balayage" }, "duration": 150, "price": null },
+        { "id": "meches", "name": { "fr": "Mèches", "en": "Highlights" }, "duration": 120, "price": null },
+        { "id": "ombre-tie-dye", "name": { "fr": "Ombré hair, tie and dye", "en": "Ombré, tie and dye" }, "duration": 150, "price": null }
+      ]
+    },
+    {
+      "id": "lissage",
+      "name": { "fr": "Lissages & soins", "en": "Smoothing & treatments" },
+      "items": [
+        { "id": "lissage-japonais", "name": { "fr": "Lissage japonais", "en": "Japanese straightening" }, "duration": 240, "price": null },
+        { "id": "lissage", "name": { "fr": "Lissage", "en": "Smoothing treatment" }, "duration": 150, "price": null },
+        { "id": "permanente", "name": { "fr": "Permanente sans ammoniaque", "en": "Ammonia-free perm" }, "duration": 120, "price": null },
+        { "id": "soin-plantes", "name": { "fr": "Soin aux plantes", "en": "Plant-based hair treatment" }, "duration": 30, "price": null }
+      ]
+    },
+    {
+      "id": "mariage",
+      "name": { "fr": "Mariage & événements", "en": "Weddings & events" },
+      "items": [
+        { "id": "mise-en-plis", "name": { "fr": "Mise en plis", "en": "Set and style" }, "duration": 45, "price": null },
+        { "id": "chignon", "name": { "fr": "Chignon, coiffure de soirée", "en": "Updo, evening hair" }, "duration": 60, "price": null },
+        { "id": "coiffure-mariee", "name": { "fr": "Coiffure de mariée", "en": "Bridal hair" }, "duration": 90, "price": null },
+        { "id": "essai-mariee", "name": { "fr": "Essai coiffure de mariée", "en": "Bridal hair trial" }, "duration": 90, "price": null }
+      ]
+    },
+    {
+      "id": "homme-enfant",
+      "name": { "fr": "Homme & enfant", "en": "Men & children" },
+      "items": [
+        { "id": "coupe-homme", "name": { "fr": "Coupe homme", "en": "Men's cut" }, "duration": 30, "price": null },
+        { "id": "barbe", "name": { "fr": "Barbier : taille de barbe", "en": "Barber: beard trim" }, "duration": 20, "price": null },
+        { "id": "coupe-enfant", "name": { "fr": "Coupe enfant", "en": "Children's cut" }, "duration": 30, "price": null }
+      ]
+    }
+  ]
+}

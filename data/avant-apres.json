@@ -1,0 +1,4 @@
+{
+  "_note": "Paires avant / après du curseur de comparaison. Déposer les photos (même cadrage, même taille) dans public/media/avant-apres/, lancer npm run media pour leurs dimensions, puis ajouter une entrée. Tant que la liste est vide, la section n'apparaît pas.",
+  "pairs": []
+}

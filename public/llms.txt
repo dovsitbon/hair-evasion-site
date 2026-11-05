@@ -1,0 +1,18 @@
+# Hair Évasion
+
+> Salon de coiffure mixte (femmes, hommes, enfants) et coiffeur visagiste au centre d'Amiens, 4 rue au Lin, 80000 Amiens, France. Téléphone : 03 22 92 42 42. Note Google : 4,8/5 (55 avis, relevé du 5 novembre 2026).
+
+Prestations : coupe femme, homme et enfant, coupe au rasoir, bilan capillaire et conseil visagiste, coloration, coloration végétale, balayage, mèches, ombré hair, tie and dye, lissage, lissage japonais, permanente sans ammoniaque, soins aux plantes, mises en plis, chignons, coiffure de mariée avec essai, prestations barbier, relooking. Marques utilisées : Leonor Greyl, L'Oréal Professionnel.
+
+Horaires : du mardi au vendredi 9 h – 19 h, le samedi 9 h – 18 h ; fermé le dimanche et le lundi.
+
+Rendez-vous : par téléphone ou par le formulaire en ligne ; le salon rappelle pour confirmer.
+
+## Pages
+
+- [Accueil](https://hair-evasion.vercel.app/fr): prestations, carte, mariage, salon, conseils, bon cadeau, infos pratiques, FAQ
+- [Demande de rendez-vous](https://hair-evasion.vercel.app/fr/rendez-vous)
+- [Balayage à Amiens](https://hair-evasion.vercel.app/fr/balayage-amiens)
+- [Coiffure de mariage à Amiens](https://hair-evasion.vercel.app/fr/coiffure-mariage-amiens)
+- [English version](https://hair-evasion.vercel.app/en)
+- [Instagram](https://www.instagram.com/hairevasionamiens/)

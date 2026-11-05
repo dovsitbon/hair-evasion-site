@@ -1,0 +1,19 @@
+{
+  "name": "Hair Évasion",
+  "url": "https://hair-evasion.vercel.app",
+  "phone": "03 22 92 42 42",
+  "phoneIntl": "+33 3 22 92 42 42",
+  "tel": "+33322924242",
+  "whatsapp": null,
+  "email": null,
+  "bookingUrl": null,
+  "instagram": "https://www.instagram.com/hairevasionamiens/",
+  "instagramHandle": "@hairevasionamiens",
+  "facebook": "https://www.facebook.com/hairevasionamiens/",
+  "address": { "street": "4 rue au Lin", "postalCode": "80000", "city": "Amiens", "region": "Hauts-de-France", "country": "FR" },
+  "geo": { "lat": 49.895669, "lng": 2.295902 },
+  "maps": "https://www.google.com/maps/search/?api=1&query=Hair+Evasion+4+rue+au+Lin+80000+Amiens",
+  "mapsEmbed": "https://www.google.com/maps?q=Hair+Evasion,+4+rue+au+Lin,+80000+Amiens&z=16&output=embed",
+  "rating": { "value": 4.8, "count": 55, "asOf": "2026-11-05", "source": "Google" },
+  "legal": { "company": null, "siret": null, "director": null, "host": "Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, États-Unis" }
+}

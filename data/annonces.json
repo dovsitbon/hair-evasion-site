@@ -1,0 +1,28 @@
+{
+  "_note": "Bandeau du haut de page. Une annonce s'affiche entre from et to (inclus) ; la plus récente l'emporte. page : home, rdv, balayage, mariage ; hash facultatif (ancre, ex. cadeaux) ; query facultatif (ex. ?p=bon-cadeau). Fermetures : ajouter aussi les dates dans horaires.json → closures.",
+  "items": [
+    {
+      "id": "noel-2026",
+      "from": "2026-11-01",
+      "to": "2026-12-24",
+      "text": {
+        "fr": "Fêtes de fin d'année : pensez au bon cadeau Hair Évasion, et réservez tôt vos rendez-vous de décembre.",
+        "en": "Holiday season: think of a Hair Évasion gift voucher, and book your December appointments early."
+      },
+      "link": { "fr": "Offrir un bon cadeau", "en": "Give a gift voucher" },
+      "page": "home",
+      "hash": "cadeaux"
+    },
+    {
+      "id": "fermeture-fetes-2026",
+      "from": "2026-12-25",
+      "to": "2027-01-01",
+      "text": {
+        "fr": "Le salon est fermé le 25 décembre et le 1er janvier. Toute l'équipe vous souhaite de belles fêtes.",
+        "en": "The salon is closed on 25 December and 1 January. The whole team wishes you happy holidays."
+      },
+      "link": { "fr": "Prendre rendez-vous", "en": "Book an appointment" },
+      "page": "rdv"
+    }
+  ]
+}

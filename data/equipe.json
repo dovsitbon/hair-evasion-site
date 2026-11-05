@@ -1,0 +1,11 @@
+{
+  "_note": "Bloc portrait « Le salon et l'équipe ». name/role à null : le bloc présente le salon sans nom. Ajouter la photo dans public/media/salon/ (npm run media) puis renseigner photo.",
+  "members": [
+    {
+      "id": "gerant",
+      "name": null,
+      "role": { "fr": "Coiffeur visagiste, fondateur du salon", "en": "Hairdresser and face-shape specialist, founder" },
+      "photo": null
+    }
+  ]
+}

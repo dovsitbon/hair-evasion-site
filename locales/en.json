@@ -1,0 +1,444 @@
+{
+  "meta": {
+    "title": "Hairdresser in central Amiens | Hair Évasion, 4 rue au Lin",
+    "description": "Hair Évasion, hairdresser for women, men and children in central Amiens: cuts, balayage, plant-based colour, Japanese straightening, bridal hair. 4.8/5 on Google.",
+    "ogAlt": "Blonde balayage on long wavy hair, done at Hair Évasion in Amiens"
+  },
+  "nav": {
+    "prestations": "Services",
+    "couleur": "Colour & balayage",
+    "mariage": "Weddings",
+    "salon": "The salon",
+    "infos": "Visit",
+    "book": "Book an appointment",
+    "call": "Call",
+    "menu": "Menu",
+    "close": "Close menu",
+    "home": "Hair Évasion, home",
+    "instagram": "Hair Évasion on Instagram",
+    "lang": "Language",
+    "skip": "Skip to content"
+  },
+  "intro": {
+    "skip": "Skip"
+  },
+  "announce": {
+    "close": "Close banner"
+  },
+  "status": {
+    "open": "Open now",
+    "closed": "Closed",
+    "until": "until {time}",
+    "reopens": "opens {day} at {time}",
+    "today": "today",
+    "tomorrow": "tomorrow"
+  },
+  "days": [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "rating": {
+    "label": "{value}/5 on Google",
+    "count": "{count} reviews",
+    "asOf": "Rating as of {date}"
+  },
+  "hero": {
+    "eyebrow": "Hair & face-shape styling · Central Amiens",
+    "title": "The cut and colour <em>that look like you</em>",
+    "lead": "Women, men, children: we start by looking at you, your face, your hair, the way you live, before we pick up the scissors.",
+    "book": "Book an appointment",
+    "services": "See our services"
+  },
+  "bar": {
+    "label": "Appointment request",
+    "service": "Service",
+    "serviceAny": "Not sure yet",
+    "day": "Preferred day",
+    "dayAny": "Any day",
+    "submit": "Continue"
+  },
+  "tiles": {
+    "eyebrow": "At the salon",
+    "title": "What we do, and do well",
+    "items": {
+      "coupe": {
+        "title": "Cut & face shape",
+        "text": "A cut designed around the shape of your face and the nature of your hair."
+      },
+      "couleur": {
+        "title": "Colour & balayage",
+        "text": "Balayage, highlights, ombré, classic or plant-based colour."
+      },
+      "lissage": {
+        "title": "Smoothing & care",
+        "text": "Japanese straightening, ammonia-free perms, plant-based treatments."
+      },
+      "mariage": {
+        "title": "Weddings & events",
+        "text": "Updos, bridal and guest hair, trial included."
+      },
+      "homme-enfant": {
+        "title": "Men & children",
+        "text": "Men’s cuts, razor cuts, beard trims, and the little ones."
+      }
+    }
+  },
+  "prices": {
+    "eyebrow": "Services and prices",
+    "title": "The salon menu",
+    "lead": "Prices are starting prices, for short hair. For colour or smoothing, the price depends on length and thickness: we tell you before we begin.",
+    "from": "from {price}",
+    "onRequest": "price at the salon",
+    "duration": "approx. {time}",
+    "book": "Request this appointment",
+    "note": "Durations are a guide. A face-shape consultation can come before any service."
+  },
+  "beforeAfter": {
+    "eyebrow": "Before / after",
+    "title": "Same face, different light",
+    "lead": "Drag the slider to compare.",
+    "before": "Before",
+    "after": "After",
+    "handle": "Compare before and after"
+  },
+  "reviews": {
+    "eyebrow": "Google reviews",
+    "title": "What clients mention most",
+    "themes": [
+      "Careful, precise work",
+      "Fair prices",
+      "Trust, appointment after appointment",
+      "Highlights and balayage"
+    ],
+    "cta": "Read the reviews on Google"
+  },
+  "wedding": {
+    "eyebrow": "Weddings",
+    "title": "On the day, hair that lasts until the very last dance",
+    "lead": "Braided bun, loose waves, half-up with flowers: we design your hair with you, test it at a trial, and look after your loved ones too.",
+    "points": [
+      "A trial to settle the style, the accessories and the timing",
+      "Bride, bridesmaids, mothers, little flower girls",
+      "Fresh or dried flowers, hair jewellery, veil"
+    ],
+    "cta": "Request a wedding appointment",
+    "more": "All about wedding hair"
+  },
+  "salon": {
+    "eyebrow": "The salon",
+    "title": "Rue au Lin, right in the centre of Amiens",
+    "text": "Hair Évasion is a city-centre salon where we take our time. We listen first, look at the shape of your face, the texture of your hair, how you style it in the morning. Only then do we suggest a cut or a colour.",
+    "portrait": {
+      "eyebrow": "Face-shape styling",
+      "title": "A careful look before the scissors",
+      "text": "Face-shape styling means choosing the length, volume and tones that bring out your features. No one-size-fits-all cut, no trend pasted onto everyone."
+    },
+    "space": {
+      "title": "Time for yourself",
+      "text": "An unhurried shampoo, a scalp massage, a coffee: the salon is made for slowing down."
+    },
+    "products": {
+      "title": "Care that respects your hair",
+      "text": "At the basin and in the shop, we work with Leonor Greyl natural hair care and L’Oréal Professionnel. For colour, plant-based colour is available if you want something gentler."
+    },
+    "frontAlt": "The salon’s shopfront"
+  },
+  "tips": {
+    "eyebrow": "Advice",
+    "title": "Between appointments",
+    "lead": "A few simple habits to make your cut and colour last.",
+    "items": [
+      {
+        "title": "Keeping balayage bright",
+        "text": "A gentle sulphate-free shampoo, a mask once a week and lukewarm rather than hot water. A gloss at the salon every 6 to 8 weeks revives the tones."
+      },
+      {
+        "title": "After colouring",
+        "text": "Wait 48 hours before the first wash so the colour can set, and protect your hair from sun and chlorine."
+      },
+      {
+        "title": "How often to cut",
+        "text": "Every 6 weeks for a short cut or a bob, every 8 to 10 weeks for long hair: the ends stay neat and the shape holds."
+      },
+      {
+        "title": "Blow-drying and heat",
+        "text": "Always use a heat protectant and keep straighteners below 180 °C. Letting your hair air-dry now and then does the lengths good."
+      }
+    ]
+  },
+  "gift": {
+    "eyebrow": "Gift ideas",
+    "title": "Give time at the salon",
+    "text": "A gift voucher for a cut, a colour, a treatment or any amount you like, tucked into a pretty box with the products they already love. Prepared at the salon, just give us a call.",
+    "cta": "Request a gift voucher",
+    "call": "Or call the salon"
+  },
+  "infos": {
+    "eyebrow": "Visit us",
+    "title": "Getting to the salon",
+    "address": "Address",
+    "hours": "Opening hours",
+    "access": "Getting here",
+    "accessText": "Right in the town centre, a few minutes' walk from Place Gambetta and the cathedral. Leave a little extra time to park: city-centre car parks fill up quickly on Saturdays.",
+    "phone": "Phone",
+    "route": "Directions",
+    "closedDay": "Closed",
+    "closures": "Upcoming closures",
+    "mapTitle": "Map: Hair Évasion, 4 rue au Lin, Amiens"
+  },
+  "faq": {
+    "eyebrow": "Questions",
+    "title": "Before you come",
+    "items": [
+      {
+        "q": "Do I need an appointment?",
+        "a": "It’s best, especially for colour, balayage or smoothing. For a simple cut, give us a call: if there’s room, we’ll fit you in the same day."
+      },
+      {
+        "q": "How long does balayage take?",
+        "a": "Usually between 2 and 3 hours, including wash, toner and styling. It depends on length, thickness and your starting colour: we give you an exact time when you book."
+      },
+      {
+        "q": "Do you offer plant-based colour?",
+        "a": "Yes. It suits people who want colour that is gentler on the scalp. A quick assessment at the salon tells us whether it’s right for your hair."
+      },
+      {
+        "q": "What is Japanese straightening like?",
+        "a": "It’s a permanent straightening: treated hair stays straight until it grows out. The session is long (several hours) and we check the condition of your hair together first."
+      },
+      {
+        "q": "Do you do hair for brides and their guests?",
+        "a": "Yes: the bride, and also bridesmaids, mothers and children. We start with a trial a few weeks before the wedding."
+      },
+      {
+        "q": "How can I pay?",
+        "a": "You pay at the salon after your appointment, by card or in cash."
+      },
+      {
+        "q": "Is my online request a confirmed booking?",
+        "a": "Not yet: the salon calls you back to offer a time and confirm it with you."
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Hair salon for women, men and children in central Amiens. Cuts, colour, balayage, smoothing and wedding hair.",
+    "contact": "Contact",
+    "pages": "Explore",
+    "rights": "Hair Évasion, Amiens",
+    "legal": "Legal notice",
+    "days": "Tuesday to Friday, 9am – 7pm\nSaturday, 9am – 6pm",
+    "closed": "Closed Sunday and Monday"
+  },
+  "booking": {
+    "eyebrow": "Appointment request",
+    "title": "Your next appointment",
+    "lead": "Tell us what you’d like and when you’re free. The salon calls you back to set the time with you.",
+    "preferCall": "Easier by phone?",
+    "sections": {
+      "services": "What you’d like",
+      "hair": "Your hair",
+      "when": "When you’re free",
+      "wedding": "Your wedding",
+      "contact": "Your details"
+    },
+    "fields": {
+      "services": "Services",
+      "servicesHint": "Choose as many as you like.",
+      "length": "Hair length",
+      "lengths": {
+        "courts": "Short",
+        "mi-longs": "Medium",
+        "longs": "Long",
+        "tres-longs": "Very long"
+      },
+      "first": "Is this your first visit to the salon?",
+      "yes": "Yes",
+      "no": "No",
+      "days": "Days that suit you",
+      "slots": "Times of day",
+      "slotList": {
+        "matin": "Morning",
+        "midi": "Midday",
+        "apres-midi": "Afternoon",
+        "fin": "Late afternoon"
+      },
+      "date": "A specific date?",
+      "dateHint": "Optional.",
+      "weddingDate": "Wedding date",
+      "trial": "Would you like a trial?",
+      "trialList": {
+        "oui": "Yes",
+        "non": "No",
+        "a-voir": "Let’s discuss"
+      },
+      "people": "Number of people to style",
+      "name": "Full name",
+      "phone": "Phone",
+      "email": "Email",
+      "emailHint": "To receive a summary of your request.",
+      "photo": "Inspiration photo",
+      "photoHint": "Optional. A cut or colour you like (JPG, PNG or HEIC).",
+      "photoChange": "Change",
+      "photoRemove": "Remove",
+      "message": "Message",
+      "messagePh": "Your current colour, an idea, a time constraint…",
+      "giftNote": "For a gift voucher, mention the service or amount in your message."
+    },
+    "submit": "Send my request",
+    "sending": "Sending…",
+    "privacy": "Your details are only used to call you back about this appointment.",
+    "errors": {
+      "services": "Choose at least one service.",
+      "name": "Please enter your name.",
+      "phone": "Please enter a valid phone number.",
+      "email": "This email address doesn’t look right.",
+      "photo": "We couldn’t read that photo. Try another image.",
+      "generic": "Your request didn’t go through. Please try again, or call the salon."
+    },
+    "success": {
+      "title": "Thank you, your request has been sent",
+      "text": "The salon will call you back to offer a time and confirm it with you.",
+      "email": "A summary has just been sent to your email.",
+      "notNotified": "One last step: to make sure your request is seen quickly, please call the salon.",
+      "again": "Make another request"
+    },
+    "message": {
+      "title": "Appointment request",
+      "services": "Services",
+      "length": "Length",
+      "first": "First visit",
+      "days": "Days",
+      "slots": "Times",
+      "date": "Preferred date",
+      "weddingDate": "Wedding date",
+      "trial": "Trial",
+      "people": "People to style",
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email",
+      "message": "Message",
+      "photo": "Inspiration photo attached"
+    },
+    "email": {
+      "subject": "Appointment request",
+      "confirmSubject": "Hair Évasion: we’ve received your request",
+      "confirmIntro": "Hello {name},\n\nThank you for your appointment request. The salon will call you back very soon to offer a time. Here is what you sent us:",
+      "confirmOutro": "See you soon at the salon,\nHair Évasion\n4 rue au Lin, 80000 Amiens, France\n+33 3 22 92 42 42"
+    }
+  },
+  "pages": {
+    "rdv": {
+      "metaTitle": "Book a hairdresser in Amiens | Hair Évasion",
+      "metaDescription": "Request an appointment at Hair Évasion, rue au Lin in central Amiens: cuts, colour, balayage, smoothing, weddings. The salon calls you back to confirm."
+    },
+    "balayage": {
+      "metaTitle": "Balayage in Amiens: blonde, caramel, ombré | Hair Évasion",
+      "metaDescription": "Balayage, highlights, ombré and tie and dye in central Amiens. Hand-painted tones chosen for your face and skin tone, at Hair Évasion, 4 rue au Lin.",
+      "eyebrow": "Colour · Central Amiens",
+      "title": "Balayage in Amiens",
+      "intro": "Good balayage doesn’t look like colour: it looks like your hair has caught the sun. At Hair Évasion, tones are painted by hand, section by section, to suit your face, your skin tone and your natural base.",
+      "sections": [
+        {
+          "title": "Blonde, caramel, copper",
+          "text": "Bright blonde on fair hair, caramel or honey on light brown, copper tones to warm up dark hair: we choose together the shade that lights up your face, without a harsh regrowth line."
+        },
+        {
+          "title": "Balayage, highlights or ombré?",
+          "text": "Balayage gives soft, blended tones painted freehand. Highlights lighten more evenly, from root to tip. Ombré and tie and dye play on a gradient, darker at the top, lighter at the ends. We advise you depending on how much upkeep you want."
+        },
+        {
+          "title": "How long, how much upkeep?",
+          "text": "Usually 2 to 3 hours at the salon. Balayage grows out softly: a refresh every 3 to 4 months is enough, with a gloss in between to keep it bright."
+        }
+      ],
+      "gallery": "Balayage done at the salon",
+      "cta": "Request a balayage appointment",
+      "related": "See also plant-based colour and Japanese straightening on the salon menu."
+    },
+    "mariage": {
+      "metaTitle": "Wedding hair in Amiens: brides and guests | Hair Évasion",
+      "metaDescription": "Bridal hair in Amiens: trial, updos, braids, waves, accessories. Hair Évasion also styles bridesmaids, mothers and children. 4 rue au Lin.",
+      "eyebrow": "Weddings · Amiens",
+      "title": "Wedding hair in Amiens",
+      "intro": "Your hair should feel like you, go with the dress, and survive the hugs and the dance floor. We plan it with you, from the first idea to the trial, then on the day.",
+      "process": {
+        "title": "How it works",
+        "steps": [
+          {
+            "title": "First meeting",
+            "text": "Bring your photos, the dress, the veil or accessories. We talk about the day’s schedule, your hair and what you love."
+          },
+          {
+            "title": "The trial",
+            "text": "A few weeks before the wedding, we do the full style. We adjust until it’s exactly what you pictured."
+          },
+          {
+            "title": "The day",
+            "text": "We style you and your loved ones, calmly and on time. The style is built to last until the end of the evening."
+          }
+        ]
+      },
+      "styles": {
+        "title": "Updos, braids, waves",
+        "text": "Low braided bun, high bun with jewellery, loose waves, half-up with flowers, boho braid: every photo on this page was styled by the salon."
+      },
+      "guests": {
+        "title": "Bridesmaids, mothers, children",
+        "text": "The salon also styles your circle: bridesmaid updos, sets, little flowered styles for flower girls."
+      },
+      "cta": "Request a wedding appointment"
+    }
+  },
+  "legal": {
+    "metaTitle": "Legal notice | Hair Évasion",
+    "title": "Legal notice",
+    "pending": "Notice being completed (company name and SIRET to be provided by the salon).",
+    "editor": "Publisher",
+    "editorText": "Hair Évasion, hair salon, 4 rue au Lin, 80000 Amiens, France. Phone: +33 3 22 92 42 42.",
+    "host": "Hosting",
+    "data": "Personal data",
+    "dataText": "Information sent through the appointment form (name, phone, email, photo, message) is only used to contact you about this appointment. It is never sold or used for any other purpose. You can ask for it to be deleted by calling the salon.",
+    "photos": "Photos",
+    "photosText": "All hairstyle photos show work done by the salon, published on its Instagram account @hairevasionamiens."
+  },
+  "alt": {
+    "balayage-blond-ondule": "Bright blonde balayage on long wavy hair, seen from behind",
+    "balayage-caramel-boucles": "Caramel balayage on long curls, at the salon",
+    "balayage-blond-mur-brique": "Blended blonde balayage on long hair, in front of a brick wall",
+    "ombre-chatain-ondule": "Light-brown ombré with honey ends, wavy hair",
+    "tie-and-dye-cuivre": "Copper tie and dye on medium-length dark hair",
+    "boucles-meches-caramel": "Ringlet curls with caramel highlights, side view",
+    "lissage-long-blond": "Long blonde hair perfectly straight after smoothing",
+    "coupe-courte-femme": "Short layered women’s cut, seen from behind",
+    "carre-flou-marguerite": "Soft braided bob with a daisy",
+    "chignon-cuivre-flou": "Loose updo with copper tones",
+    "chignon-bas-brun": "Curly low bun on dark hair",
+    "chignon-ombre-tresse": "Braided updo on ombré hair",
+    "chignon-perles-blond": "Sculpted blonde updo with pearls",
+    "chignon-bijou-dore": "Curly updo with a gold hair piece",
+    "chignon-haut-strass": "High bun wrapped in a rhinestone band",
+    "enfant-chignon-roses": "Child’s hairstyle: curly bun with small roses",
+    "enfant-queue-boucles-roses": "Child’s hairstyle: curly ponytail with roses",
+    "chignon-tresse-bijou": "Braided bridal updo with hair jewellery",
+    "mariee-chignon-dentelle": "Bride from behind, braided bun with baby’s breath, lace dress",
+    "mariee-ondulee-gypsophile": "Bride with long wavy hair and sprigs of baby’s breath",
+    "mariee-tresse-boheme": "Boho bridal braid with dried flowers",
+    "chignon-tresse-fleur-poudree": "Braided updo with a dusty-pink flower",
+    "chignon-couronne-fleurs": "Low bun with a flower crown",
+    "temoin-chignon-gypsophile": "Bridesmaid in dusty pink, updo with baby’s breath",
+    "deux-coiffures-ceremonie": "Two ceremony hairstyles seen from behind, in a wood-panelled room",
+    "demi-attache-blond": "Blonde half-up style with long waves",
+    "chignon-tresse-gypsophile": "Braided updo dotted with baby’s breath",
+    "chignon-flou-fleurs": "Loose side updo, white flower and baby’s breath",
+    "demi-attache-fleurs-sechees": "Braided half-up style with dried flowers",
+    "devanture-rue-au-lin": "The Hair Évasion shopfront, rue au Lin in Amiens",
+    "huile-leonor-greyl": "Leonor Greyl hair oil on display at the salon",
+    "trousse-leonor-greyl": "Leonor Greyl care kit at the salon",
+    "coffret-bon-cadeau": "Gift box of hair care with the salon’s gift voucher card"
+  }
+}

@@ -1,0 +1,444 @@
+{
+  "meta": {
+    "title": "Coiffeur visagiste à Amiens centre | Hair Évasion, 4 rue au Lin",
+    "description": "Hair Évasion, coiffeur visagiste mixte au centre d’Amiens : coupe, balayage, coloration végétale, lissage japonais, coiffure de mariée. 4,8/5 sur Google.",
+    "ogAlt": "Balayage blond ondulé réalisé au salon Hair Évasion, à Amiens"
+  },
+  "nav": {
+    "prestations": "Prestations",
+    "couleur": "Couleur & balayage",
+    "mariage": "Mariage",
+    "salon": "Le salon",
+    "infos": "Infos",
+    "book": "Prendre rendez-vous",
+    "call": "Appeler",
+    "menu": "Menu",
+    "close": "Fermer le menu",
+    "home": "Hair Évasion, accueil",
+    "instagram": "Hair Évasion sur Instagram",
+    "lang": "Langue",
+    "skip": "Aller au contenu"
+  },
+  "intro": {
+    "skip": "Passer"
+  },
+  "announce": {
+    "close": "Fermer le bandeau"
+  },
+  "status": {
+    "open": "Ouvert maintenant",
+    "closed": "Fermé",
+    "until": "jusqu’à {time}",
+    "reopens": "réouverture {day} à {time}",
+    "today": "aujourd’hui",
+    "tomorrow": "demain"
+  },
+  "days": [
+    "dimanche",
+    "lundi",
+    "mardi",
+    "mercredi",
+    "jeudi",
+    "vendredi",
+    "samedi"
+  ],
+  "rating": {
+    "label": "{value}/5 sur Google",
+    "count": "{count} avis",
+    "asOf": "Note relevée en {date}"
+  },
+  "hero": {
+    "eyebrow": "Coiffeur visagiste · Amiens centre",
+    "title": "La coupe et la couleur <em>qui vous ressemblent</em>",
+    "lead": "Femmes, hommes, enfants : on commence par vous regarder, votre visage, vos cheveux, votre façon de vivre, avant de prendre les ciseaux.",
+    "book": "Prendre rendez-vous",
+    "services": "Voir les prestations"
+  },
+  "bar": {
+    "label": "Demande de rendez-vous",
+    "service": "Prestation",
+    "serviceAny": "Je ne sais pas encore",
+    "day": "Jour souhaité",
+    "dayAny": "Peu importe",
+    "submit": "Continuer"
+  },
+  "tiles": {
+    "eyebrow": "Au salon",
+    "title": "Ce que nous faisons, et bien",
+    "items": {
+      "coupe": {
+        "title": "Coupe & visagisme",
+        "text": "Une coupe pensée pour la forme de votre visage et la nature de vos cheveux."
+      },
+      "couleur": {
+        "title": "Couleur & balayage",
+        "text": "Balayage, mèches, ombré, coloration classique ou végétale."
+      },
+      "lissage": {
+        "title": "Lissages & soins",
+        "text": "Lissage japonais, permanente sans ammoniaque, soins aux plantes."
+      },
+      "mariage": {
+        "title": "Mariage & événements",
+        "text": "Chignons, coiffures de mariée et d’invitées, essai compris."
+      },
+      "homme-enfant": {
+        "title": "Homme & enfant",
+        "text": "Coupe homme, coupe au rasoir, barbe, et les plus petits."
+      }
+    }
+  },
+  "prices": {
+    "eyebrow": "Prestations et tarifs",
+    "title": "La carte du salon",
+    "lead": "Les prix s’entendent à partir de, pour des cheveux courts. Pour une couleur ou un lissage, le tarif dépend de la longueur et de l’épaisseur : on vous le donne avant de commencer.",
+    "from": "à partir de {price}",
+    "onRequest": "tarif au salon",
+    "duration": "env. {time}",
+    "book": "Demander ce rendez-vous",
+    "note": "Durées indicatives. Un bilan visagiste peut précéder n’importe quelle prestation."
+  },
+  "beforeAfter": {
+    "eyebrow": "Avant / après",
+    "title": "Le même visage, une autre lumière",
+    "lead": "Faites glisser le curseur pour comparer.",
+    "before": "Avant",
+    "after": "Après",
+    "handle": "Comparer avant et après"
+  },
+  "reviews": {
+    "eyebrow": "Avis Google",
+    "title": "Ce qui revient le plus souvent",
+    "themes": [
+      "Le travail soigné",
+      "Des prix justes",
+      "La confiance, rendez-vous après rendez-vous",
+      "Les mèches et le balayage"
+    ],
+    "cta": "Lire les avis sur Google"
+  },
+  "wedding": {
+    "eyebrow": "Mariage",
+    "title": "Le jour J, une coiffure qui tient jusqu’au bout de la nuit",
+    "lead": "Chignon tressé, ondulations libres, demi-attaché fleuri : on dessine votre coiffure avec vous, on la teste lors d’un essai, et on s’occupe aussi de vos proches.",
+    "points": [
+      "Un essai pour caler la coiffure, les accessoires et le timing",
+      "Mariée, témoins, mamans, petites demoiselles d’honneur",
+      "Fleurs fraîches ou séchées, bijoux de cheveux, voile"
+    ],
+    "cta": "Demander un rendez-vous mariage",
+    "more": "Tout sur la coiffure de mariage"
+  },
+  "salon": {
+    "eyebrow": "Le salon",
+    "title": "Rue au Lin, en plein centre d’Amiens",
+    "text": "Hair Évasion, c’est un salon de centre-ville où l’on prend le temps. On vous écoute d’abord, on regarde la forme de votre visage, la texture de vos cheveux, votre façon de vous coiffer le matin. Ensuite seulement on propose une coupe ou une couleur.",
+    "portrait": {
+      "eyebrow": "Visagiste",
+      "title": "Un regard avant les ciseaux",
+      "text": "Le visagisme, c’est choisir la longueur, le volume et les reflets qui mettent en valeur vos traits. Pas de coupe imposée, pas de tendance plaquée sur tout le monde."
+    },
+    "space": {
+      "title": "Un moment pour vous",
+      "text": "Un shampooing qui prend son temps, un massage du cuir chevelu, un café : le salon est fait pour qu’on s’y pose."
+    },
+    "products": {
+      "title": "Des soins qui respectent le cheveu",
+      "text": "Au bac et en boutique, nous travaillons avec Leonor Greyl, soins naturels du cheveu, et L’Oréal Professionnel. Pour la couleur, la coloration végétale est proposée à celles et ceux qui veulent une couleur plus douce."
+    },
+    "frontAlt": "La devanture du salon"
+  },
+  "tips": {
+    "eyebrow": "Conseils",
+    "title": "Entre deux rendez-vous",
+    "lead": "Quelques gestes simples pour que votre coupe et votre couleur durent.",
+    "items": [
+      {
+        "title": "Garder l’éclat d’un balayage",
+        "text": "Un shampooing doux, sans sulfates, un masque une fois par semaine et une eau tiède plutôt que chaude. Un gloss au salon toutes les 6 à 8 semaines ravive les reflets."
+      },
+      {
+        "title": "Après une coloration",
+        "text": "Attendez 48 heures avant le premier shampooing pour laisser la couleur se fixer, et protégez vos cheveux du soleil et du chlore."
+      },
+      {
+        "title": "Le bon rythme pour une coupe",
+        "text": "Toutes les 6 semaines pour une coupe courte ou un carré, toutes les 8 à 10 semaines pour des cheveux longs : les pointes restent nettes et la forme tient."
+      },
+      {
+        "title": "Brushing et chaleur",
+        "text": "Appliquez toujours un protecteur thermique et gardez le fer en dessous de 180 °C. Un séchage à l’air libre, de temps en temps, fait du bien aux longueurs."
+      }
+    ]
+  },
+  "gift": {
+    "eyebrow": "Idées cadeaux",
+    "title": "Offrir un moment au salon",
+    "text": "Un bon cadeau pour une coupe, une couleur, un soin, ou un montant libre, à glisser dans un joli coffret avec les soins qu’elle ou il aime déjà. Il se prépare au salon, sur simple appel.",
+    "cta": "Demander un bon cadeau",
+    "call": "Ou appelez le salon"
+  },
+  "infos": {
+    "eyebrow": "Infos pratiques",
+    "title": "Venir au salon",
+    "address": "Adresse",
+    "hours": "Horaires",
+    "access": "Accès",
+    "accessText": "En plein centre-ville, à quelques minutes à pied de la place Gambetta et de la cathédrale. Pensez à vous garer un peu en avance : les parkings du centre se remplissent vite le samedi.",
+    "phone": "Téléphone",
+    "route": "Itinéraire",
+    "closedDay": "Fermé",
+    "closures": "Fermetures à venir",
+    "mapTitle": "Carte : Hair Évasion, 4 rue au Lin, Amiens"
+  },
+  "faq": {
+    "eyebrow": "Questions fréquentes",
+    "title": "Avant de venir",
+    "items": [
+      {
+        "q": "Faut-il prendre rendez-vous ?",
+        "a": "C’est préférable, surtout pour une couleur, un balayage ou un lissage. Pour une coupe simple, appelez-nous : s’il y a de la place, on vous prend dans la journée."
+      },
+      {
+        "q": "Combien de temps dure un balayage ?",
+        "a": "Comptez en général entre 2 h et 3 h, shampooing, patine et coiffage compris. Tout dépend de la longueur, de l’épaisseur et de la couleur de départ : on vous donne une durée précise en prenant le rendez-vous."
+      },
+      {
+        "q": "Proposez-vous une coloration végétale ?",
+        "a": "Oui. Elle convient à celles et ceux qui veulent une couleur plus douce pour le cuir chevelu. Un bilan au salon permet de voir si elle est adaptée à vos cheveux."
+      },
+      {
+        "q": "Comment se passe un lissage japonais ?",
+        "a": "C’est un lissage permanent : les cheveux traités restent lisses jusqu’à la repousse. La séance est longue (plusieurs heures) et on vérifie d’abord ensemble l’état de vos cheveux."
+      },
+      {
+        "q": "Coiffez-vous les mariées et leurs invités ?",
+        "a": "Oui : la mariée, mais aussi les témoins, les mamans et les enfants. On commence par un essai, quelques semaines avant le mariage."
+      },
+      {
+        "q": "Comment puis-je payer ?",
+        "a": "Le règlement se fait au salon, à la fin de la prestation, par carte bancaire ou en espèces."
+      },
+      {
+        "q": "Ma demande de rendez-vous en ligne est-elle confirmée ?",
+        "a": "Pas encore : le salon vous rappelle pour vous proposer un créneau et le confirmer avec vous."
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Coiffeur visagiste mixte au centre d’Amiens. Coupe, couleur, balayage, lissage et coiffures de mariage.",
+    "contact": "Contact",
+    "pages": "À voir",
+    "rights": "Hair Évasion, Amiens",
+    "legal": "Mentions légales",
+    "days": "Du mardi au vendredi, 9 h – 19 h\nLe samedi, 9 h – 18 h",
+    "closed": "Fermé le dimanche et le lundi"
+  },
+  "booking": {
+    "eyebrow": "Demande de rendez-vous",
+    "title": "Votre prochain rendez-vous",
+    "lead": "Dites-nous ce que vous aimeriez et quand vous êtes disponible. Le salon vous rappelle pour fixer l’heure avec vous.",
+    "preferCall": "Plus simple au téléphone ?",
+    "sections": {
+      "services": "Ce que vous souhaitez",
+      "hair": "Vos cheveux",
+      "when": "Vos disponibilités",
+      "wedding": "Votre mariage",
+      "contact": "Vos coordonnées"
+    },
+    "fields": {
+      "services": "Prestations",
+      "servicesHint": "Plusieurs choix possibles.",
+      "length": "Longueur de vos cheveux",
+      "lengths": {
+        "courts": "Courts",
+        "mi-longs": "Mi-longs",
+        "longs": "Longs",
+        "tres-longs": "Très longs"
+      },
+      "first": "Est-ce votre première visite au salon ?",
+      "yes": "Oui",
+      "no": "Non",
+      "days": "Jours qui vous arrangent",
+      "slots": "Moments de la journée",
+      "slotList": {
+        "matin": "Matin",
+        "midi": "Midi",
+        "apres-midi": "Après-midi",
+        "fin": "Fin de journée"
+      },
+      "date": "Une date précise ?",
+      "dateHint": "Facultatif.",
+      "weddingDate": "Date du mariage",
+      "trial": "Souhaitez-vous un essai ?",
+      "trialList": {
+        "oui": "Oui",
+        "non": "Non",
+        "a-voir": "À voir ensemble"
+      },
+      "people": "Nombre de personnes à coiffer",
+      "name": "Nom et prénom",
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "emailHint": "Pour recevoir le récapitulatif de votre demande.",
+      "photo": "Photo d’inspiration",
+      "photoHint": "Facultatif. Une coupe, une couleur que vous aimez (JPG, PNG ou HEIC).",
+      "photoChange": "Changer",
+      "photoRemove": "Retirer",
+      "message": "Message",
+      "messagePh": "Votre couleur actuelle, une envie, une contrainte d’horaire…",
+      "giftNote": "Pour un bon cadeau, indiquez la prestation ou le montant dans le message."
+    },
+    "submit": "Envoyer ma demande",
+    "sending": "Envoi…",
+    "privacy": "Vos coordonnées servent uniquement à vous rappeler pour ce rendez-vous.",
+    "errors": {
+      "services": "Choisissez au moins une prestation.",
+      "name": "Indiquez votre nom.",
+      "phone": "Indiquez un numéro de téléphone valide.",
+      "email": "Cette adresse e-mail ne semble pas valide.",
+      "photo": "La photo n’a pas pu être lue. Essayez une autre image.",
+      "generic": "L’envoi n’a pas abouti. Réessayez, ou appelez le salon."
+    },
+    "success": {
+      "title": "Merci, votre demande est bien partie",
+      "text": "Le salon vous rappelle pour vous proposer un créneau et le confirmer avec vous.",
+      "email": "Un récapitulatif vient de vous être envoyé par e-mail.",
+      "notNotified": "Dernière étape : pour être sûr que votre demande soit vue rapidement, appelez le salon.",
+      "again": "Faire une autre demande"
+    },
+    "message": {
+      "title": "Demande de rendez-vous",
+      "services": "Prestations",
+      "length": "Longueur",
+      "first": "Première visite",
+      "days": "Jours",
+      "slots": "Moments",
+      "date": "Date souhaitée",
+      "weddingDate": "Date du mariage",
+      "trial": "Essai",
+      "people": "Personnes à coiffer",
+      "name": "Nom",
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "message": "Message",
+      "photo": "Photo d’inspiration en pièce jointe"
+    },
+    "email": {
+      "subject": "Demande de rendez-vous",
+      "confirmSubject": "Hair Évasion : nous avons bien reçu votre demande",
+      "confirmIntro": "Bonjour {name},\n\nMerci pour votre demande de rendez-vous. Le salon vous rappelle très vite pour vous proposer un créneau. Voici ce que vous nous avez envoyé :",
+      "confirmOutro": "À bientôt au salon,\nHair Évasion\n4 rue au Lin, 80000 Amiens\n03 22 92 42 42"
+    }
+  },
+  "pages": {
+    "rdv": {
+      "metaTitle": "Prendre rendez-vous chez votre coiffeur à Amiens | Hair Évasion",
+      "metaDescription": "Demandez votre rendez-vous chez Hair Évasion, coiffeur visagiste rue au Lin à Amiens : coupe, couleur, balayage, lissage, mariage. Le salon vous rappelle pour confirmer."
+    },
+    "balayage": {
+      "metaTitle": "Balayage à Amiens : blond, caramel, ombré | Hair Évasion",
+      "metaDescription": "Balayage, mèches, ombré et tie and dye au centre d’Amiens. Des reflets dessinés à la main selon votre visage et votre teint, chez Hair Évasion, 4 rue au Lin.",
+      "eyebrow": "Couleur · Amiens centre",
+      "title": "Balayage à Amiens",
+      "intro": "Un balayage réussi ne se voit pas comme une couleur : on dirait que vos cheveux ont pris le soleil. Chez Hair Évasion, les reflets sont posés à la main, mèche par mèche, en fonction de votre visage, de votre teint et de votre base naturelle.",
+      "sections": [
+        {
+          "title": "Blond, caramel, cuivré",
+          "text": "Blond lumineux sur des cheveux clairs, caramel ou miel sur un châtain, reflets cuivrés pour réchauffer un brun : on choisit ensemble la nuance qui éclaire votre visage, sans effet de racine marquée."
+        },
+        {
+          "title": "Balayage, mèches ou ombré ?",
+          "text": "Le balayage donne des reflets fondus, posés à main levée. Les mèches éclaircissent de façon plus régulière, de la racine aux pointes. L’ombré et le tie and dye jouent sur un dégradé, plus foncé en haut, plus clair en bas. On vous conseille selon l’entretien que vous voulez."
+        },
+        {
+          "title": "Combien de temps, quel entretien ?",
+          "text": "Comptez en général 2 h à 3 h au salon. Le balayage repousse en douceur : un rafraîchissement tous les 3 à 4 mois suffit, avec un gloss entre deux pour garder l’éclat."
+        }
+      ],
+      "gallery": "Balayages réalisés au salon",
+      "cta": "Demander un rendez-vous balayage",
+      "related": "Voir aussi la coloration végétale et le lissage japonais dans la carte du salon."
+    },
+    "mariage": {
+      "metaTitle": "Coiffure de mariage à Amiens : mariée et invités | Hair Évasion",
+      "metaDescription": "Coiffure de mariée à Amiens : essai, chignon, tresses, ondulations, accessoires. Hair Évasion coiffe aussi les témoins, mamans et enfants. 4 rue au Lin.",
+      "eyebrow": "Mariage · Amiens",
+      "title": "Coiffure de mariage à Amiens",
+      "intro": "Votre coiffure doit vous ressembler, aller avec la robe, résister aux embrassades et à la piste de danse. On la prépare avec vous, de la première idée à l’essai, puis le jour J.",
+      "process": {
+        "title": "Comment ça se passe",
+        "steps": [
+          {
+            "title": "Le premier rendez-vous",
+            "text": "Vous venez avec vos photos, la robe, le voile ou les accessoires. On parle du déroulé de la journée, de vos cheveux, de ce que vous aimez."
+          },
+          {
+            "title": "L’essai",
+            "text": "Quelques semaines avant le mariage, on réalise la coiffure en entier. On ajuste jusqu’à ce qu’elle soit exactement comme vous l’imaginiez."
+          },
+          {
+            "title": "Le jour J",
+            "text": "On vous coiffe, vous et vos proches, dans le calme et à l’heure. La coiffure est pensée pour tenir jusqu’au bout de la soirée."
+          }
+        ]
+      },
+      "styles": {
+        "title": "Chignons, tresses, ondulations",
+        "text": "Chignon bas tressé, chignon haut et bijou, ondulations libres, demi-attaché fleuri, tresse bohème : chaque photo de cette page a été coiffée par le salon."
+      },
+      "guests": {
+        "title": "Témoins, mamans, enfants",
+        "text": "Le salon coiffe aussi votre entourage : chignons de témoins, mises en plis, petites coiffures fleuries pour les demoiselles d’honneur."
+      },
+      "cta": "Demander un rendez-vous mariage"
+    }
+  },
+  "legal": {
+    "metaTitle": "Mentions légales | Hair Évasion",
+    "title": "Mentions légales",
+    "pending": "Mentions en cours de complément (raison sociale et SIRET à renseigner par le salon).",
+    "editor": "Éditeur",
+    "editorText": "Hair Évasion, salon de coiffure, 4 rue au Lin, 80000 Amiens. Téléphone : 03 22 92 42 42.",
+    "host": "Hébergeur",
+    "data": "Données personnelles",
+    "dataText": "Les informations envoyées par le formulaire de rendez-vous (nom, téléphone, e-mail, photo, message) servent uniquement à vous recontacter pour ce rendez-vous. Elles ne sont ni revendues ni utilisées à d’autres fins. Vous pouvez demander leur suppression en appelant le salon.",
+    "photos": "Photos",
+    "photosText": "Toutes les photos de coiffures sont des réalisations du salon, publiées sur son compte Instagram @hairevasionamiens."
+  },
+  "alt": {
+    "balayage-blond-ondule": "Balayage blond lumineux sur cheveux longs ondulés, vu de dos",
+    "balayage-caramel-boucles": "Balayage caramel sur longues boucles, au salon",
+    "balayage-blond-mur-brique": "Balayage blond fondu sur cheveux longs, devant un mur de briques",
+    "ombre-chatain-ondule": "Ombré châtain aux pointes miel, cheveux ondulés",
+    "tie-and-dye-cuivre": "Tie and dye cuivré sur cheveux bruns mi-longs",
+    "boucles-meches-caramel": "Boucles anglaises avec mèches caramel, de profil",
+    "lissage-long-blond": "Cheveux longs blonds parfaitement lisses après un lissage",
+    "coupe-courte-femme": "Coupe courte femme dégradée, vue de dos",
+    "carre-flou-marguerite": "Carré flou et tressé, piqué d’une marguerite",
+    "chignon-cuivre-flou": "Chignon flou aux reflets cuivrés",
+    "chignon-bas-brun": "Chignon bas bouclé sur cheveux bruns",
+    "chignon-ombre-tresse": "Chignon tressé sur cheveux ombrés",
+    "chignon-perles-blond": "Chignon blond sculpté, piqué de perles",
+    "chignon-bijou-dore": "Chignon bouclé orné d’un bijou de cheveux doré",
+    "chignon-haut-strass": "Chignon haut entouré d’un bandeau de strass",
+    "enfant-chignon-roses": "Coiffure d’enfant : chignon bouclé et petites roses",
+    "enfant-queue-boucles-roses": "Coiffure d’enfant : queue de cheval bouclée et roses",
+    "chignon-tresse-bijou": "Chignon tressé de mariée, orné de bijoux de cheveux",
+    "mariee-chignon-dentelle": "Mariée de dos, chignon tressé et gypsophile, robe en dentelle",
+    "mariee-ondulee-gypsophile": "Mariée aux longs cheveux ondulés et brins de gypsophile",
+    "mariee-tresse-boheme": "Tresse bohème de mariée, fleurs séchées dans les cheveux",
+    "chignon-tresse-fleur-poudree": "Chignon tressé orné d’une fleur rose poudré",
+    "chignon-couronne-fleurs": "Chignon bas et couronne de fleurs",
+    "temoin-chignon-gypsophile": "Témoin en robe rose poudré, chignon et gypsophile",
+    "deux-coiffures-ceremonie": "Deux coiffures de cérémonie vues de dos, dans un salon aux boiseries",
+    "demi-attache-blond": "Demi-attaché blond aux longues ondulations",
+    "chignon-tresse-gypsophile": "Chignon tressé piqué de gypsophile",
+    "chignon-flou-fleurs": "Chignon flou sur le côté, fleur blanche et gypsophile",
+    "demi-attache-fleurs-sechees": "Demi-attaché tressé et fleurs séchées",
+    "devanture-rue-au-lin": "La devanture du salon Hair Évasion, rue au Lin à Amiens",
+    "huile-leonor-greyl": "L’huile de Leonor Greyl, présentée au salon",
+    "trousse-leonor-greyl": "Trousse de soins Leonor Greyl au salon",
+    "coffret-bon-cadeau": "Coffret de soins et carte bon cadeau du salon"
+  }
+}
